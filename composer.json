@@ -1,0 +1,12 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/sarmadmahar/test-sarmad"
+        }
+    ],
+    "require": {
+        "sarmadmahar/test-sarmad": "branch1"
+    }
+}
+
