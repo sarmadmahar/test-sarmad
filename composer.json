@@ -1,4 +1,6 @@
 {
+ "name": "sarmadmahar/test-sarmad",
+  "description": "yii2 Module",
     "repositories": [
         {
             "type": "vcs",
